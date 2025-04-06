@@ -1,4 +1,4 @@
-- 👋 I’m Marcus, a student currently studying Computer Science
+- Student currently studying Computer Science
 - I’m interested in everything tech, trying to learn as much as I possibly can
 
 <!---
